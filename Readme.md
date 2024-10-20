@@ -15,12 +15,12 @@
 <hr/>
 <table width="100%" align="center">
   <tr>
-    <td align="center" style="width:200px">
+    <td align="center" width="200">
       <a href="https://fariabriya.codes">
         <strong>Blog</strong>
       </a>
     </td>
-    <td align="center" style="width:200px">
+    <td align="center" width="200">
       <a href="https://fariabriya.substack.com/">
         <strong>Newsletter</strong>
       </a>
